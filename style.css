@@ -51,7 +51,7 @@ h1{
 }
 
 #generate-btn{
-    background: #69b9ff;
+    background: #772fe4;
     border: none;
     color: white;
     cursor: pointer;
@@ -59,10 +59,11 @@ h1{
     border-radius: 5px;
     font-weight: bold;
     transition: all 0.3s;
+    margin-top: 1rem;
 }
 
 #generate-btn:hover{
-    background: #00c6fb;
+    background: #c44eee;
     transform: scale(1.05);
 }
 
